@@ -14,10 +14,10 @@ This lab replicates real-world enterprise scenarios by enforcing:
 ## Architecture
 
 ### Proxmox Virtual Environment
-![Proxmox Overview](Enterprise-IAM-Homelab-Screenshots/01-Infrastructure/Proxmox Virtual Environment overview.png)
+![Proxmox Overview](Enterprise-IAM-Homelab-Screenshots/01-Infrastructure/Proxmox-Virtual-Environment-overview.png)
 
 ### Network Configuration
-![Proxmox Network](Enterprise-IAM-Homelab-Screenshots/01-Infrastructure/Proxmox vmbr0 network.png)
+![Proxmox Network](Enterprise-IAM-Homelab-Screenshots/01-Infrastructure/Proxmox-vmbr0-network.png)
 
 ### Environment Design
 - **DC01 (Domain Controller)** → Active Directory + DNS
